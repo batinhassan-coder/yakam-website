@@ -1,0 +1,6 @@
+{
+  "name": "Packing Store",
+  "description": "A premium, production-ready food packaging e-commerce platform optimized for converting social media traffic with direct Instagram ordering, interactive AI Packaging Finder, and a complete admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
